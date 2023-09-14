@@ -1,0 +1,13 @@
+/home/jack/Documents/rust/snake/target/debug/deps/simd_adler32-1c9ec2c4aae8c9ce.rmeta: /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/lib.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/hash.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/mod.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/avx2.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/avx512.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/scalar.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/sse2.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/ssse3.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/wasm.rs
+
+/home/jack/Documents/rust/snake/target/debug/deps/simd_adler32-1c9ec2c4aae8c9ce.d: /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/lib.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/hash.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/mod.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/avx2.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/avx512.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/scalar.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/sse2.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/ssse3.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/wasm.rs
+
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/lib.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/hash.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/mod.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/avx2.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/avx512.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/scalar.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/sse2.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/ssse3.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/simd-adler32-0.3.5/src/imp/wasm.rs:

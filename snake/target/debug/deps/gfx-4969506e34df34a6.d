@@ -1,0 +1,17 @@
+/home/jack/Documents/rust/snake/target/debug/deps/gfx-4969506e34df34a6.rmeta: /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/lib.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/encoder.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/factory.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/slice.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/mod.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/buffer.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/resource.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/target.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/bundle.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/shade.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/macros/mod.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/macros/pso.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/macros/structure.rs
+
+/home/jack/Documents/rust/snake/target/debug/deps/gfx-4969506e34df34a6.d: /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/lib.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/encoder.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/factory.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/slice.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/mod.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/buffer.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/resource.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/target.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/bundle.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/shade.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/macros/mod.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/macros/pso.rs /home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/macros/structure.rs
+
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/lib.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/encoder.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/factory.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/slice.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/mod.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/buffer.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/resource.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/target.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/pso/bundle.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/shade.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/macros/mod.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/macros/pso.rs:
+/home/jack/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.3/src/macros/structure.rs:
